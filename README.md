@@ -2,7 +2,7 @@
 
 # Beauty-Salon
 
-<p> Site totalmente responsivo feito com HTML5,CSS3 e JS  </p>
+<p> Site responsivo feito com HTML5,CSS3 e JS  </p>
 <p>na NLW Togueter </p>
 <p> Que ocorreu dos dias  20 Jun/Documingo  a  27 Jun/Domingo</p>
 <hr>
