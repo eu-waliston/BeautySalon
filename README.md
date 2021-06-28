@@ -1,6 +1,6 @@
-# Beauty-Salon
-
 ![IMG-20210628-WA0016](https://user-images.githubusercontent.com/82295321/123646992-16da4380-d7fe-11eb-8fbe-e87582a83059.jpg)
+
+# Beauty-Salon
 
 <p> Site totalmente responsivo feito com HTML5,CSS3 e JS  </p>
 <p>na NLW Togueter </p>
