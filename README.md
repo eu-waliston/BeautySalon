@@ -29,6 +29,6 @@
 
 Link do projeto 
 
-https://bkt-tonton.github.io/BeautySalon/
+https://wal-wizard.github.io/BeautySalon/
 
 
